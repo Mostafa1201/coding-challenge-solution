@@ -1,0 +1,13 @@
+{
+  "name": "localytics-interview-challenge",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "./index.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=6.9.0"
+  }
+}

@@ -1,0 +1,9 @@
+node_modules
+*.swp
+*.un~
+.DS_Store
+*.class
+target
+
+/obj-c/challenge
+/obj-c/challenge.dSYM/
